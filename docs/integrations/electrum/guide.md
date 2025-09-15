@@ -1,6 +1,6 @@
 # Electrum Integration Setup
 
-Note: You will need to be running Tor on your device, find guides to set this up here: https://start9.com/latest/user-manual/connecting/connecting-tor/tor-os/index
+Note: You will need to be running Tor on your device, find guides to set this up here: https://docs.start9.com/0.3.5.x/user-manual/connecting-tor.html#using-native-apps 
 
 Caution: This will add your Electrum server, but if you want to ONLY connect to your server, you will need to run Electrum in [Single Server Mode](https://electrum.readthedocs.io/en/latest/tor.html) from the CLI.
 
